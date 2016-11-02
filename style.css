@@ -10,7 +10,7 @@ header {
 	border-bottom: solid #c0c0c0 .2em;
 }
 header h1 {
-	font-family: cooper, comic sans ms;
+	font-family: cooper, arial black, comic sans ms;
 }
 header h1 a {
 	text-decoration: none;
@@ -56,7 +56,7 @@ section img {
 }
 section h3 {
 	color: #336600;
-	font-family: cooper, comic sans ms;
+	font-family: cooper, arial black, comic sans ms;
 }
 section p {
 	padding: 10px;
