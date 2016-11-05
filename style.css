@@ -61,7 +61,8 @@ section img {
 hr {
 	display: block;
 	margin: 0 auto;
-	width: 250px;
+	/*width: 250px;*/
+	width: 90%;
 	border: solid gold .1em;
 }
 section h3, section h4 {
