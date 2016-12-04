@@ -55,6 +55,9 @@ ul li {
 	margin-left: 50px;
 	margin-right: 10px;
 }
+section br {
+	display: none;
+}
 section img {
 	width: 100%;
 }
@@ -94,6 +97,9 @@ footer {
 @media screen and (min-width: 800px) {
 	html {
 		background-color: #336600;
+	}
+	section br {
+		display: block;
 	}
 	section img {
 		width: 800px;
