@@ -105,27 +105,27 @@ footer {
 		text-align: center;
 		display: block;
 		margin: 0 auto;
-		color: white;
+		color: #336600;
 	}
 	section {
     width: 100%;
     margin: 0 auto;
-    background-color: #336600;
+    background-color: #f5f5f5;
 }
 	b {
 		display: block;
 		text-align: center;
-		color: white;
+		color: #336600;
 	}
 	ul li {
 		text-align: center;
 		list-style-type: none;
-		color: white;
+		color: #336600;
 	}
 	.no2 {
-		background-color: #336600;
+		background-color: #f5f5f5;
 	}
 	section h3, section h4 {
-		color: white;
+		color: #336600;
 	}
 }
