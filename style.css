@@ -43,7 +43,7 @@ nav {
 	/* top: 9px; */
 }
 .no2 {
-	background-color: #fff;
+	background-color: transparent !important;
 }
 .gray {
 	background-color: #c0c0c0;
@@ -55,6 +55,9 @@ ul li {
 	margin-left: 50px;
 	margin-right: 10px;
 }
+section {
+	background-image: url('ep_naturalwhite.png');
+}
 section br {
 	display: none;
 }
@@ -62,7 +65,7 @@ section img {
 	width: 100%;
 }
 hr {
-	display: block;
+	display: none;
 	margin: 0 auto;
 	/*width: 250px;*/
 	width: 90%;
